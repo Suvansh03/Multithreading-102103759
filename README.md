@@ -34,7 +34,7 @@ Multiply 100 random matrices of size 1k x 1k with a constant matrix of size 1k x
 
 The time taken is minimum when the number of threads is 5.
 ## Submitted By:
-Akshita Gupta
-102103741
+Suvansh Gupta
+102103759
 
 
